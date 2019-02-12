@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c3437ce-d21b-41a3-a08e-4523b32339e7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary_to_Int.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Average.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Average.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Average.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="272">
+              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Binary_to_Int.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Binary_to_Int.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -56,12 +65,13 @@
         <option value="$PROJECT_DIR$/src/Hello_world.java" />
         <option value="$PROJECT_DIR$/src/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/Average.java" />
+        <option value="$PROJECT_DIR$/src/Binary_to_Int.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="217" />
-    <option name="y" value="19" />
+    <option name="x" value="262" />
+    <option name="y" value="69" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -113,9 +123,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Average">
+  <component name="RunManager" selected="Application.Binary_to_Int">
     <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Average" />
+      <module name="Java_for_beginners" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Binary_to_Int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_to_Int" />
       <module name="Java_for_beginners" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -168,9 +183,11 @@
     <list>
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.Average" />
+      <item itemvalue="Application.Binary_to_Int" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Binary_to_Int" />
         <item itemvalue="Application.Average" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -208,11 +225,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549807669210</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Задача №4: Отработка арифметических операций, ver.1.0">
+      <created>1549979903970</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549979903970</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="233" y="152" width="1400" height="1000" extended-state="0" />
+    <frame x="262" y="69" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -250,7 +274,8 @@
     <MESSAGE value="привет мир" />
     <MESSAGE value="привет мир - 2" />
     <MESSAGE value="привет мир - изначальная версия" />
-    <option name="LAST_COMMIT_MESSAGE" value="привет мир - изначальная версия" />
+    <MESSAGE value="Задача №4: Отработка арифметических операций, ver.1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача №4: Отработка арифметических операций, ver.1.0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
@@ -288,8 +313,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Average.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="272">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_to_Int.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
