@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3437ce-d21b-41a3-a08e-4523b32339e7" name="Default" comment="Задача №5: Отработка арифметических операций , ver.1.1&#10;- исправлен тип данных avg и avg2&#10;- ввод данных теперь через один поток считывания">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4c3437ce-d21b-41a3-a08e-4523b32339e7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Average.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,33 +14,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              <folding>
-                <element signature="e#69#70#0" expanded="true" />
-                <element signature="e#120#121#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Average.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Average.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Average.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Binary_to_Int.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Binary_to_Int.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Binary_to_Int.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comparison_with_Const.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Comparison_with_Const.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -65,6 +61,7 @@
         <option value="$PROJECT_DIR$/src/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/Binary_to_Int.java" />
         <option value="$PROJECT_DIR$/src/One.java" />
+        <option value="$PROJECT_DIR$/src/Comparison_with_Const.java" />
         <option value="$PROJECT_DIR$/src/Average.java" />
       </list>
     </option>
@@ -123,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Binary_to_Int">
+  <component name="RunManager" selected="Application.Comparison_with_Const">
     <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Average" />
       <module name="Java_for_beginners" />
@@ -134,8 +131,8 @@
       <module name="Java_for_beginners" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+    <configuration name="Comparison_with_Const" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comparison_with_Const" />
       <module name="Java_for_beginners" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -191,19 +188,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.Average" />
       <item itemvalue="Application.Binary_to_Int" />
       <item itemvalue="Application.One" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Comparison_with_Const" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Comparison_with_Const" />
         <item itemvalue="Application.Average" />
         <item itemvalue="Application.One" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Binary_to_Int" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550083091537</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Задача №4: Отработка поразрядных операций, ver.1.0">
+      <created>1550083461523</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550083461523</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -275,12 +279,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.32849163" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" visible="true" weight="0.32849163" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49733475" visible="true" weight="0.32849163" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -305,7 +309,8 @@
     <MESSAGE value="Задача №4: Отработка арифметических операций, ver.1.0" />
     <MESSAGE value="Задача №5: Отработка поразрядных операций, ver.1.0" />
     <MESSAGE value="Задача №5: Отработка арифметических операций , ver.1.1&#10;- исправлен тип данных avg и avg2&#10;- ввод данных теперь через один поток считывания" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача №5: Отработка арифметических операций , ver.1.1&#10;- исправлен тип данных avg и avg2&#10;- ввод данных теперь через один поток считывания" />
+    <MESSAGE value="Задача №4: Отработка поразрядных операций, ver.1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача №4: Отработка поразрядных операций, ver.1.0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
@@ -355,9 +360,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_to_Int.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="68">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding>
             <element signature="e#69#70#0" expanded="true" />
@@ -366,24 +378,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/One.java">
+    <entry file="file://$PROJECT_DIR$/src/Comparison_with_Const.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="238">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Average.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Binary_to_Int.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
