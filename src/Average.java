@@ -7,9 +7,9 @@ public class Average {
         Scanner l = new Scanner(System.in);
 
         System.out.println("Введите числа x, y и z через пробел и нажмите Enter:");
-        float x = l.nextInt();
-        float y = l.nextInt();
-        float z = l.nextInt();
+        float x = l.nextFloat();
+        float y = l.nextFloat();
+        float z = l.nextFloat();
 
         avg = (x+y+z)/3;
         System.out.printf("Average=%.3f\n", avg);
