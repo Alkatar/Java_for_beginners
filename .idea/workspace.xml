@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3437ce-d21b-41a3-a08e-4523b32339e7" name="Default" comment="">
+    <list default="true" id="4c3437ce-d21b-41a3-a08e-4523b32339e7" name="Default" comment="Задача №7: Цикличный вывод данных на экран, ver.1.0">
+      <change afterPath="$PROJECT_DIR$/src/Cyclic_Data_Output.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,8 +18,8 @@
       <file leaf-file-name="Average.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Average.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="340">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -32,11 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Comparison_with_Const.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Comparison_with_Const.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Comparison_with_Const.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state>
+              <caret lean-forward="true" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cyclic_Data_Output.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Cyclic_Data_Output.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -63,6 +73,7 @@
         <option value="$PROJECT_DIR$/src/One.java" />
         <option value="$PROJECT_DIR$/src/Average.java" />
         <option value="$PROJECT_DIR$/src/Comparison_with_Const.java" />
+        <option value="$PROJECT_DIR$/src/Сyclic_Data_Output.java" />
       </list>
     </option>
   </component>
@@ -120,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Comparison_with_Const">
+  <component name="RunManager" selected="Application.Сyclic_Data_Output">
     <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Average" />
       <module name="Java_for_beginners" />
@@ -147,6 +158,11 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Сyclic_Data_Output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Сyclic_Data_Output" />
+      <module name="Java_for_beginners" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -193,9 +209,11 @@
       <item itemvalue="Application.Binary_to_Int" />
       <item itemvalue="Application.One" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Сyclic_Data_Output" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Сyclic_Data_Output" />
         <item itemvalue="Application.Average" />
         <item itemvalue="Application.One" />
         <item itemvalue="Application.Test" />
@@ -277,26 +295,34 @@
       <option name="project" value="LOCAL" />
       <updated>1550086683934</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Задача №6: Условие вывода данных, ver.1.0">
+      <created>1550087216254</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1550087216254</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49925372" weight="0.32896304" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" sideWeight="0.4989339" visible="true" weight="0.32849163" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.32849163" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.32849163" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" visible="true" weight="0.32849163" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" weight="0.32849163" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -323,7 +349,8 @@
     <MESSAGE value="Задача №5: Отработка арифметических операций , ver.1.1&#10;- исправлен тип данных avg и avg2&#10;- ввод данных теперь через один поток считывания" />
     <MESSAGE value="Задача №4: Отработка поразрядных операций, ver.1.0" />
     <MESSAGE value="Задача №6: Условие вывода данных, ver.1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача №6: Условие вывода данных, ver.1.0" />
+    <MESSAGE value="Задача №7: Цикличный вывод данных на экран, ver.1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача №7: Цикличный вывод данных на экран, ver.1.0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
@@ -391,17 +418,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Average.java">
+    <entry file="file://$PROJECT_DIR$/src/Comparison_with_Const.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state>
+          <caret lean-forward="true" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Comparison_with_Const.java">
+    <entry file="file://$PROJECT_DIR$/src/Average.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cyclic_Data_Output.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
