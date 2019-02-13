@@ -5,7 +5,7 @@ public class Binary_to_Int {
 
         Scanner a = new Scanner(System.in);
 
-        System.out.println("Введите число в бинарном формате:");
+        System.out.println("Введите число в бинарном формате и нажмите Enter:");
         String Str = a.nextLine();
 
         int decimal = Integer.parseInt(Str, 2);
