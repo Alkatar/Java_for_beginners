@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3437ce-d21b-41a3-a08e-4523b32339e7" name="Default" comment="Задача №7: Цикличный вывод данных на экран, ver.1.0">
-      <change afterPath="$PROJECT_DIR$/src/Array_IOData.java" afterDir="false" />
+    <list default="true" id="4c3437ce-d21b-41a3-a08e-4523b32339e7" name="Default" comment="Задание №8: Ввод/вывод данных для массива, ver.1.0">
+      <change afterPath="$PROJECT_DIR$/src/Matrix_IOData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -51,11 +51,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Array_IOData.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Array_IOData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array_IOData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+            <state>
+              <caret selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matrix_IOData.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Matrix_IOData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -84,6 +93,7 @@
         <option value="$PROJECT_DIR$/src/Comparison_with_Const.java" />
         <option value="$PROJECT_DIR$/src/Сyclic_Data_Output.java" />
         <option value="$PROJECT_DIR$/src/Array_IOData.java" />
+        <option value="$PROJECT_DIR$/src/Matrix_IOData.java" />
       </list>
     </option>
   </component>
@@ -141,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Array_IOData">
+  <component name="RunManager" selected="Application.Matrix_IOData">
     <configuration name="Array_IOData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array_IOData" />
       <module name="Java_for_beginners" />
@@ -157,13 +167,13 @@
       <module name="Java_for_beginners" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="One" />
+    <configuration name="Matrix_IOData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matrix_IOData" />
       <module name="Java_for_beginners" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="One" />
       <module name="Java_for_beginners" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -217,17 +227,17 @@
       <item itemvalue="Application.Comparison_with_Const" />
       <item itemvalue="Application.Average" />
       <item itemvalue="Application.One" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Сyclic_Data_Output" />
       <item itemvalue="Application.Array_IOData" />
+      <item itemvalue="Application.Matrix_IOData" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Matrix_IOData" />
         <item itemvalue="Application.Array_IOData" />
         <item itemvalue="Application.Сyclic_Data_Output" />
         <item itemvalue="Application.Average" />
         <item itemvalue="Application.One" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550088030741</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Задание №8: Ввод/вывод данных для массива, ver.1.0">
+      <created>1550158230150</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1550158230150</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -328,13 +345,13 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4989339" weight="0.32849163" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49840087" weight="0.32849163" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.32849163" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.32849163" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.32849163" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49626866" visible="true" weight="0.32849163" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -367,7 +384,8 @@
     <MESSAGE value="Задача №4: Отработка поразрядных операций, ver.1.0" />
     <MESSAGE value="Задача №6: Условие вывода данных, ver.1.0" />
     <MESSAGE value="Задача №7: Цикличный вывод данных на экран, ver.1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача №7: Цикличный вывод данных на экран, ver.1.0" />
+    <MESSAGE value="Задание №8: Ввод/вывод данных для массива, ver.1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание №8: Ввод/вывод данных для массива, ver.1.0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
@@ -458,8 +476,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array_IOData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        <state>
+          <caret selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Matrix_IOData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
         </state>
       </provider>
     </entry>
