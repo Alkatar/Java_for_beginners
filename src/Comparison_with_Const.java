@@ -14,7 +14,7 @@ public class Comparison_with_Const {
         float y = 6;
         float z = 18;
 
-        if (t==x | t==y | t==z)
+        if (t==x || t==y || t==z)
             System.out.println("Данное значение имеется в константах");
         else
             System.out.println("Такой константы нет!");
