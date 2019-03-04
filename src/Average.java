@@ -14,8 +14,8 @@ public class Average {
         avg = (x+y+z)/3;
         System.out.printf("Average=%.3f\n", avg);
 
-        int avg2 = Math.round((x+y+z)/6);
-
+        int avg2 = (int)((x+y+z)/6);
+        
         if (avg2>3)
             System.out.println("Программа выполнена корректно");
     }
