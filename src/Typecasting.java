@@ -4,7 +4,7 @@ public class Typecasting {
     public static void main(String[] args) {
 
         Scanner l = new Scanner(System.in);
-        System.out.println("Введите число:");
+        System.out.println("Введите целое число:");
         String s = l.nextLine();
 
         int x = Integer.parseInt(s);
