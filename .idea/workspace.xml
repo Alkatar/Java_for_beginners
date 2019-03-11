@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c3437ce-d21b-41a3-a08e-4523b32339e7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Bubble_sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Typecasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Typecasting.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,42 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Average.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Average.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Input_String.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Input_String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Removing_Spaces.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Removing_Spaces.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String_Comparison.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/String_Comparison.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,11 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Typecasting.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Typecasting.java">
+      <file leaf-file-name="Array_IOData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Array_IOData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="289">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bubble_sort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Bubble_sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -100,6 +73,7 @@
         <option value="$PROJECT_DIR$/src/String_Comparison.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/Typecasting.java" />
+        <option value="$PROJECT_DIR$/src/Bubble_sort.java" />
       </list>
     </option>
   </component>
@@ -157,14 +131,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Typecasting">
-    <configuration name="Comparison_with_Const" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comparison_with_Const" />
+  <component name="RunManager" selected="Application.Bubble_sort">
+    <configuration name="Bubble_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bubble_sort" />
       <module name="Java_for_beginners" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Input_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Input_String" />
+    <configuration name="Comparison_with_Const" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comparison_with_Const" />
       <module name="Java_for_beginners" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -231,19 +205,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Comparison_with_Const" />
-      <item itemvalue="Application.Input_String" />
       <item itemvalue="Application.Removing_Spaces" />
       <item itemvalue="Application.String_Comparison" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Typecasting" />
+      <item itemvalue="Application.Bubble_sort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bubble_sort" />
         <item itemvalue="Application.Typecasting" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.String_Comparison" />
         <item itemvalue="Application.Removing_Spaces" />
-        <item itemvalue="Application.Input_String" />
       </list>
     </recent_temporary>
   </component>
@@ -419,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551818692109</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Задача №14: Преобразование типов v.1.1">
+      <created>1552333073959</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1552333073960</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -478,7 +459,8 @@
     <MESSAGE value="Задача №12: Удаление всех пробелов в заданном тексте" />
     <MESSAGE value="Задача №13: Сравнение двух строк" />
     <MESSAGE value="Задача №14: Преобразование типов" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача №14: Преобразование типов" />
+    <MESSAGE value="Задача №14: Преобразование типов v.1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача №14: Преобразование типов v.1.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -486,13 +468,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Average.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Input_String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -773,13 +748,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array_IOData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Matrix_IOData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -801,17 +769,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Average.java">
+    <entry file="file://$PROJECT_DIR$/src/Typecasting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Removing_Spaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -822,10 +783,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/Removing_Spaces.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state>
+          <caret selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -836,10 +797,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Typecasting.java">
+    <entry file="file://$PROJECT_DIR$/src/Average.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array_IOData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bubble_sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
         </state>
       </provider>
     </entry>
