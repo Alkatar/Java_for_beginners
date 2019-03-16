@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c3437ce-d21b-41a3-a08e-4523b32339e7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bubble_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WriteToFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,8 +18,17 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WriteToFile.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/WriteToFile.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -28,16 +37,25 @@
         <entry file="file://$PROJECT_DIR$/src/Array_IOData.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+              <caret line="17" column="9" selection-start-line="15" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bubble_sort.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Bubble_sort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bubble_sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+            <state relative-caret-position="476">
+              <caret line="28" column="53" lean-forward="true" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileReading.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FileReading.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -71,9 +89,13 @@
         <option value="$PROJECT_DIR$/src/Input_String.java" />
         <option value="$PROJECT_DIR$/src/Removing_Spaces.java" />
         <option value="$PROJECT_DIR$/src/String_Comparison.java" />
-        <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/Typecasting.java" />
         <option value="$PROJECT_DIR$/src/Bubble_sort.java" />
+        <option value="$PROJECT_DIR$/src/FileReader.java" />
+        <option value="$PROJECT_DIR$/src/FileReading.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/Stringer.java" />
+        <option value="$PROJECT_DIR$/src/WriteToFile.java" />
       </list>
     </option>
   </component>
@@ -89,8 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -113,6 +133,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,24 +153,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Bubble_sort">
-    <configuration name="Bubble_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bubble_sort" />
-      <module name="Java_for_beginners" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
+  <component name="RunManager" selected="Application.WriteToFile">
     <configuration name="Comparison_with_Const" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Comparison_with_Const" />
       <module name="Java_for_beginners" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Removing_Spaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Removing_Spaces" />
+    <configuration name="FileReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileReading" />
       <module name="Java_for_beginners" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="String_Comparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Comparison" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="Java_for_beginners" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Stringer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stringer" />
       <module name="Java_for_beginners" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -157,8 +179,8 @@
       <module name="Java_for_beginners" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Typecasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Typecasting" />
+    <configuration name="WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WriteToFile" />
       <module name="Java_for_beginners" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -205,19 +227,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Comparison_with_Const" />
-      <item itemvalue="Application.Removing_Spaces" />
-      <item itemvalue="Application.String_Comparison" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Typecasting" />
-      <item itemvalue="Application.Bubble_sort" />
+      <item itemvalue="Application.FileReading" />
+      <item itemvalue="Application.Program" />
+      <item itemvalue="Application.Stringer" />
+      <item itemvalue="Application.WriteToFile" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bubble_sort" />
-        <item itemvalue="Application.Typecasting" />
+        <item itemvalue="Application.WriteToFile" />
+        <item itemvalue="Application.Stringer" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.String_Comparison" />
-        <item itemvalue="Application.Removing_Spaces" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.FileReading" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +422,21 @@
       <option name="project" value="LOCAL" />
       <updated>1552333073960</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Задача №15: Сортировка данных в массиве v.1.0">
+      <created>1552334651646</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1552334651646</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Задача №16: Выгрузка данных из файла на экран v.1.0">
+      <created>1552738133455</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1552738133455</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -409,24 +445,24 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4978678" weight="0.32849163" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49573562" weight="0.32849163" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50692964" side_tool="true" visible="true" weight="0.32849163" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50959486" side_tool="true" visible="true" weight="0.32849163" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49307036" visible="true" weight="0.32849163" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4904051" visible="true" weight="0.32849163" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19722815" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19936034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -460,7 +496,9 @@
     <MESSAGE value="Задача №13: Сравнение двух строк" />
     <MESSAGE value="Задача №14: Преобразование типов" />
     <MESSAGE value="Задача №14: Преобразование типов v.1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача №14: Преобразование типов v.1.1" />
+    <MESSAGE value="Задача №15: Сортировка данных в массиве v.1.0" />
+    <MESSAGE value="Задача №16: Выгрузка данных из файла на экран v.1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача №16: Выгрузка данных из файла на экран v.1.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -468,27 +506,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Input_String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Removing_Spaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/String_Comparison.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -804,24 +821,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Array_IOData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+          <caret line="17" column="9" selection-start-line="15" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Bubble_sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        <state relative-caret-position="476">
+          <caret line="28" column="53" lean-forward="true" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stringer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileReading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WriteToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
         </state>
       </provider>
     </entry>
